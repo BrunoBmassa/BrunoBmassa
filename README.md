@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%" alt="BrunoBMassa"/>
+  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/181598376?v=4)]" width="150" style="border-radius: 50%" alt="BrunoBMassa"/>
 </p>
 
 <h2 align="center">Hi there, I'm Bruno! 👋</h2>
